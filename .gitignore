@@ -1,0 +1,16 @@
+# Mac
+.DS_Store
+**/.DS_Store
+
+# vim/vi
+*.swp
+
+# JavaScript
+backEnd/node_modules/
+backEnd/.node_modules/
+.eslintcache
+frontEnd/unpackage/dist/build/
+frontEnd/unpackage/dist/dev/
+
+# python
+*.pyc
